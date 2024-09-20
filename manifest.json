@@ -10,5 +10,11 @@
       "enabled": true,
       "path": "rules.json"
     }]
+  },
+  "browser_specific_settings": {
+  "gecko": {
+    "id": "Hueok@github.com",
+    "strict_min_version": "58.0"
+    }
   }
 }
