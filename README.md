@@ -1,10 +1,12 @@
 # SUPER LIGHT adblock for chzzk
 
-- Extension is available in [here](https://addons.mozilla.org/ko/firefox/addon/chzzk-adblock/)
-
 - This add-on only contain feature blocking ad for chzzk
 
 - Any other junk features are not contained
+
+
+## Installation
+[![AMO](/asset/get-the-addon-small.webp)](https://addons.mozilla.org/ko/firefox/addon/chzzk-adblock/)
 
 ## Usage
 
